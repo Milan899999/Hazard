@@ -18,6 +18,8 @@
 ---
 
 **NOTE:** Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
+
+#### ITS A WORKING VERSION OF HAZARD NOT A GRABBER OR SOMETHING!
 ㅤ
 #### Hazard Nuker was made with
 Love ❌ <br>
